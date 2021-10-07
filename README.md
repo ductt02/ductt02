@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Duc Tran Tri
 
 ---
-[![Github](https://img.shields.io/github/followers/ductt02?label=Follow&style=social)](https://github.com/ductt02)
+![Github](https://visitor-badge.laobi.icu/badge?page_id=ductt02) [![Github](https://img.shields.io/github/followers/ductt02?label=Follow&style=social)](https://github.com/ductt02)
 
 - 🌱 I’m currently a student at Ho Chi Minh City University of Information Technology, Faculty of Computer Networking and
 Communication.
