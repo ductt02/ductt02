@@ -8,6 +8,8 @@ Communication.
   - 📫Facebook: https://www.facebook.com/tranduc333/
   - 📫Email: 20520454@gm.uit.edu.vn or bvsecret1311@gmail.com
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ductt02&count_private=true&theme=tokyonight&showicons=true)]()
+
 <!--
 **ductt02/ductt02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
