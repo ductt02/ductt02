@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Duc Tran Tri
 
+---
+
 - 🌱 I’m currently a student at Ho Chi Minh City University of Information Technology, Faculty of Computer Networking and
 Communication.
 - 🌱 How to reach me:
