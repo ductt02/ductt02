@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Duc Tran Tri
+
+- 🌱 I’m currently a student at Ho Chi Minh City University of Information Technology, Faculty of Computer Networking and
+Communication.
+- 🌱 How to reach me:
+  - 📫Facebook: https://www.facebook.com/tranduc333/
+  - 📫Email: 20520454@gm.uit.edu.vn or bvsecret1311@gmail.com
 
 <!--
 **ductt02/ductt02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
