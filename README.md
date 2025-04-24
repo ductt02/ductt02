@@ -3,8 +3,7 @@
 ---
 [![Github](https://img.shields.io/github/followers/ductt02?label=Follow&style=social)](https://github.com/ductt02)
 
-- 🌱 I’m currently a student at Ho Chi Minh City University of Information Technology, Faculty of Computer Networking and
-Communication.
+- 🌱 I’m currently working as Security System Administrator.
 - 🌱 How to reach me:
 
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20px" height="20px" style="text-align: center;"> https://www.linkedin.com/in/tran-tri-duc-927832246/
